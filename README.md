@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto application DevLinks" src=".github/wallpaper.png" width="100%">
+  <img alt="projeto application DevLinks" src=".assets/mobile.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -52,4 +52,4 @@ Esse projeto está sob a licença MIT.
 Feito com ♥ by Elvis Felix from Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
 Link of Project
-[Application DevLinks Click Here to access](https://elvisfelix-dev.github.io/DevLink/)
+[App DevLinks Click Here to access](https://elvisfelix-dev.github.io/DevLink/)
